@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+p{
+    margin-top: 5px;
+    text-align: justify;
+    margin: 0px 420px;
+}
+h1#headline{
+    color: red;
+    font-family: 'Pacifico', cursive;
+}
+h1#headline1{
+    color: blue;
+    font-family: 'Oswald', sans-serif;
+}
+h1#headline2{
+    color: greenyellow;
+    font-family: 'Abril Fatface', cursive;
+}
+h1#headline3{
+    color: pink;
+    font-family: 'Alfa Slab One', cursive;
+}
+h1#headline4{
+    color: grey;
+    font-family: 'Amatic SC', cursive;
+}
+h1#headline5{
+    color: brown;
+    font-family: 'Bruno Ace', cursive;
+}
+h1#headline6{
+    color: olive;
+    font-family: 'Cookie', cursive;
+}
+h1#headline7{
+    color: goldenrod;
+    font-family: 'Corben', cursive;
+}
+h1#headline8{
+    color: hotpink;
+    font-family: 'Dancing Script', cursive;
+}
+h1#headline9{
+    color: darkcyan;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+h1#headline10{
+    color: darkgoldenrod;
+    font-family: 'Great Vibes', cursive;
+}
+h1#headline11{
+    color: darkgray;
+    font-family: 'Lobster Two', cursive;
+}
+h1#headline12{
+    color: darkgreen;
+    font-family: 'Macondo', cursive;
+}
+h1#headline13{
+    color: darkmagenta;
+    font-family: 'Monoton', cursive;
+}
+h1#headline14{
+    color: darkorange;
+    font-family: 'Yeseva One', cursive;
+}
+h1#headline15{
+    color: lightblue;
+    font-family: 'Yellowtail', cursive;
+}
+h1#headline16{
+    color: lightcoral;
+    font-family: 'Shadows Into Light', cursive;
+}
+h1#headline17{
+    color: lightgreen;
+    font-family: 'Tangerine', cursive;
+}
+h1#headline18{
+    color: lightsalmon;
+    font-family: 'Satisfy', cursive;
+}
+h1#headline19{
+    color: lightslategray;
+    font-family: 'Rye', cursive;
+}
